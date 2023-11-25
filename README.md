@@ -6,6 +6,12 @@
 
 Tablette de Commande is a Flutter mobile application that enables users to place orders for food and beverages directly from their tablet. The orders are then delivered to the location specified by the user.
 
+## Screenshots
+
+![Home screenshoot](https://github.com/daismond/tablette/blob/master/screenshoot/home.png?raw=true&s=100)
+
+![Details screenshoot](https://github.com/daismond/tablette/blob/master/screenshoot/details.png?raw=true&s=100)
+
 ## Features
 
 - **User Authentication:**
