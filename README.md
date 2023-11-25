@@ -103,6 +103,11 @@ Start app
 ```
 
 
+## Support
+
+For support, email ekoumxavier111@gmail.com or join our Slack channel.
+
+
 ## Authors
 
 - [@daismond](https://www.github.com/daismond)
@@ -139,9 +144,8 @@ Looking forward to creating, learning, and exploring the endless possibilities i
 
 Happy coding! 🚀✨
 
-## Support
-
-For support, email ekoumxavier111@gmail.com or join our Slack channel.
+## 🛠 Skills
+Javascript, HTML, CSS, SASS, php, Nodejs, Symfony, Laravel, Reactjs, Cybersecurity; Flutter, React Native; Bootstrap, API REST, Mongo DB, Exprex js,... 
 
 
 ## Related
@@ -154,13 +158,4 @@ Here are some related projects
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## 🛠 Skills
-Javascript, HTML, CSS, SASS, php, Nodejs, Symfony, Laravel, Reactjs, Cybersecurity; Flutter, React Native; Bootstrap, API REST, Mongo DB, Exprex js,... 
-
-
-# Hi, I'm Desmond! 👋
-
-Hello there! 👋 I'm **DESMOND**, a passionate developer and tech enthusiast. Welcome to my GitHub profile, where I explore the realms of code and creativity.
 
